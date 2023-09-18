@@ -1,1 +1,2 @@
-# curso_smv_2020
+# Curso Mercado Primario
+XIX Programa de Especialización de Mercado de Valores
